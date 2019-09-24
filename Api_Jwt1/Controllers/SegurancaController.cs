@@ -47,14 +47,21 @@ namespace Api_Jwt1.Controllers
                                              audience: audience,
                                              expires: DateTime.Now.AddMinutes(120),
                                              signingCredentials: credentials);
-            var tokenHandler = new JwtSecurityTokenHandler();
+            JwtSecurityTokenHandler tokenHandler = new JwtSecurityTokenHandler();
             var stringToken = tokenHandler.WriteToken(token);
             return stringToken;
         }
 
         private bool ValidarUsuario(User loginDetails)
         {
-            throw new NotImplementedException();
+            if (loginDetails.UserName == "mac" && loginDetails.Password == "numsey")
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public IActionResult Index()
