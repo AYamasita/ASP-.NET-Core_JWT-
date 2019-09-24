@@ -1,0 +1,14 @@
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\bin\Debug\netcoreapp2.2\Api_Jwt1.deps.json
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\bin\Debug\netcoreapp2.2\Api_Jwt1.runtimeconfig.json
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\bin\Debug\netcoreapp2.2\Api_Jwt1.runtimeconfig.dev.json
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\bin\Debug\netcoreapp2.2\Api_Jwt1.dll
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\obj\Debug\netcoreapp2.2\Api_Jwt1.csprojAssemblyReference.cache
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\obj\Debug\netcoreapp2.2\Api_Jwt1.csproj.CoreCompileInputs.cache
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\obj\Debug\netcoreapp2.2\Api_Jwt1.RazorAssemblyInfo.cache
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\obj\Debug\netcoreapp2.2\Api_Jwt1.RazorAssemblyInfo.cs
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\obj\Debug\netcoreapp2.2\Api_Jwt1.AssemblyInfoInputs.cache
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\obj\Debug\netcoreapp2.2\Api_Jwt1.AssemblyInfo.cs
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\obj\Debug\netcoreapp2.2\Api_Jwt1.RazorTargetAssemblyInfo.cache
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\bin\Debug\netcoreapp2.2\Api_Jwt1.pdb
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\obj\Debug\netcoreapp2.2\Api_Jwt1.dll
+C:\Users\a_yam\source\repos\Api_Jwt1\Api_Jwt1\obj\Debug\netcoreapp2.2\Api_Jwt1.pdb
