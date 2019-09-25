@@ -9,6 +9,8 @@ namespace Api_Jwt1.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize()]  //sem especificacao
+    
     public class ValuesController : ControllerBase
     {
         // GET api/values
